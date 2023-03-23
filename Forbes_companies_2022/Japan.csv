@@ -1,0 +1,196 @@
+Global Company Name, Country, Sales, Profit, Assets, Market Value
+Toyota Motor,Japan,2.8175e+011,2.815e+010,$552.46 B,$237.73 B
+Softbank,Japan,9.686e+010,2.087e+010,$418.94 B,$71.69 B
+Nippon Telegraph & Tel,Japan,1.1039e+011,1.015e+010,$204.46 B,$103.98 B
+Sony,Japan,8.99e+010,7.99e+009,$260.48 B,$108.84 B
+Mitsubishi UFJ Financial,Japan,4.828e+010,1.129e+010,"$3,176.37 B"
+Honda Motor,Japan,1.3016e+011,7.24e+009,$193.22 B,$44.99 B
+Mitsubishi,Japan,1.4694e+011,5.9e+009,$178.13 B,$50.87 B
+Sumitomo Mitsui Financial,Japan,3.55e+010,6.4e+009,"$2,176.62 B"
+Mitsui,Japan,1.0831e+011,7.01e+009,$119.73 B,$40.83 B
+Itochu,Japan,1.0799e+011,6.52e+009,$102.18 B,$45.95 B
+Hitachi,Japan,9.19e+010,5.87e+009,$116.57 B,$45.78 B
+KDDI,Japan,4.917e+010,5.98e+009,$94.14 B,$74.12 B
+Japan Post Holdings,Japan,1.0358e+011,3.93e+009,"$2,614.33 B"
+Tokio Marine Holdings,Japan,5.057e+010,3.85e+009,$234.91 B,$35.19 B
+Mizuho Financial,Japan,2.676e+010,5.42e+009,"$1,957.58 B"
+Takeda Pharmaceutical,Japan,3.155e+010,3.99e+009,$110.27 B,$45.32 B
+Dai-ichi Life Insurance,Japan,6.673e+010,4.47e+009,$571.45 B,$19.9 B
+Seven & I Holdings,Japan,7.847e+010,1.89e+009,$75.88 B,$39.19 B
+Denso,Japan,4.949e+010,2.51e+009,$61.51 B,$45.14 B
+Marubeni,Japan,7.232e+010,3.51e+009,$63.99 B,$19.7 B
+Sumitomo,Japan,4.822e+010,2.69e+009,$77.8 B,$20.28 B
+Nippon Steel,Japan,5.754e+010,5.45e+009,$74.59 B,$14.92 B
+Panasonic,Japan,6.597e+010,2.1e+009,$64.06 B,$20.98 B
+MS&AD Insurance,Japan,4.189e+010,1.81e+009,$216.84 B,$16.51 B
+Orix,Japan,2.273e+010,2.38e+009,$122.37 B,$21.71 B
+Japan Tobacco,Japan,2.116e+010,3.08e+009,$50.14 B,$30.53 B
+Shin-Etsu Chemical,Japan,1.72e+010,3.95e+009,$32.64 B,$57.46 B
+ENEOS Holdings,Japan,9.031e+010,3.45e+009,$79.99 B,$11.38 B
+Sompo,Japan,3.567e+010,2.19e+009,$119.93 B,$13.91 B
+Mitsubishi Electric,Japan,4.034e+010,2.13e+009,$41.12 B,$22.76 B
+Nissan Motor,Japan,7.917e+010,1.1e+009,$136.86 B,$16.36 B
+Daikin Industries,Japan,2.688e+010,1.88e+009,$30.45 B,$46.78 B
+Canon,Japan,3.198e+010,1.95e+009,$41.26 B,$24.66 B
+Recruit Holdings,Japan,2.48e+010,2.39e+009,$20.94 B,$62.03 B
+Toyota Tsusho,Japan,6.953e+010,2.05e+009,$50.05 B,$13.04 B
+Toyota Industries,Japan,2.332e+010,1.73e+009,$64.33 B,$18.92 B
+Bridgestone,Japan,2.954e+010,1.47e+009,$39.73 B,$25.7 B
+Daiwa House Industry,Japan,3.886e+010,1.89e+009,$47.86 B,$15.82 B
+Fujitsu,Japan,3.283e+010,1.93e+009,$27.06 B,$29.14 B
+Nintendo,Japan,1.524e+010,4.29e+009,$21.77 B,$58.01 B
+Mitsui Fudosan,Japan,1.826e+010,1.4e+009,$71.09 B,$20.04 B
+Komatsu,Japan,2.451e+010,1.78e+009,$34.97 B,$22.06 B
+Fast Retailing,Japan,1.927e+010,1.89e+009,$22.93 B,$51.27 B
+Fujifilm Holdings,Japan,2.257e+010,1.93e+009,$32.36 B,$22.93 B
+Murata Manufacturing,Japan,1.628e+010,2.83e+009,$23.07 B,$38.94 B
+Toshiba,Japan,3.013e+010,1.69e+009,$30.76 B,$18.19 B
+Tokyo Electron,Japan,1.709e+010,3.6e+009,$14.97 B,$67.25 B
+Kubota,Japan,1.999e+010,1.6e+009,$32.77 B,$21.19 B
+Suzuki Motor,Japan,3.256e+010,1.54e+009,$34.68 B,$15.39 B
+Asahi Group Holdings,Japan,2.035e+010,1.4e+009,$39.49 B,$17.94 B
+Sumitomo Mitsui Trust,Japan,1.067e+010,1.43e+009,$553.78 B,$11.81 B
+Nippon Yusen,Japan,1.946e+010,7.09e+009,$23.65 B,$12.82 B
+Nidec,Japan,1.707e+010,1.21e+009,$22.16 B,$40.47 B
+Inpex,Japan,1.132e+010,2.03e+009,$44.79 B,$17.11 B
+Idemitsu Kosan,Japan,5.454e+010,2.21e+009,$38.99 B,$7.97 B
+Mitsubishi Estate,Japan,1.214e+010,1.22e+009,$55.32 B,$19.04 B
+JFE Holdings,Japan,3.646e+010,2.47e+009,$45.34 B,$7.25 B
+Aeon,Japan,7.817e+010,5.83e+007,$101 B,$16.11 B
+Mitsubishi Chemical,Japan,3.461e+010,1.48e+009,$47.4 B,$8.74 B
+Kyocera,Japan,1.622e+010,1.33e+009,$31.04 B,$19.16 B
+Mitsubishi Heavy Industries,Japan,3.406e+010,7.951e+008,$44.43 B,$11.58 B
+Keyence,Japan,6.43e+009,2.58e+009,$19.06 B,$100.89 B
+Aisin Seiki,Japan,3.54e+010,1.51e+009,$34.91 B,$8.21 B
+Resona Holdings,Japan,7.46e+009,1.4e+009,$662.22 B,$10.54 B
+Asahi Kasei,Japan,2.179e+010,1.28e+009,$28.14 B,$11.72 B
+NEC,Japan,2.772e+010,1.09e+009,$30.64 B,$10.9 B
+Sekisui House,Japan,2.339e+010,1.39e+009,$24.31 B,$11.78 B
+East Japan Railway,Japan,1.767e+010,-3.34e+009,$78.23 B,$20.31 B
+Astellas Pharma,Japan,1.184e+010,1.09e+009,$20.46 B,$29.26 B
+Otsuka Holding,Japan,1.364e+010,1.14e+009,$24.5 B,$17.87 B
+Sumitomo Chemical,Japan,2.441e+010,1.44e+009,$36.73 B,$7.08 B
+T&D Holdings,Japan,2.027e+010,6.877e+008,$158.47 B,$7.85 B
+Sumitomo Realty,Japan,8.42e+009,1.29e+009,$49.53 B,$12.58 B
+Sumitomo Electric,Japan,2.999e+010,9.645e+008,$31.92 B,$8.61 B
+TDK,Japan,1.626e+010,1.12e+009,$24.42 B,$12.01 B
+Nomura,Japan,1.289e+010,-3.948e+008,$392.65 B,$12.09 B
+Tokyo Electric Power,Japan,4.793e+010,5.481e+008,$109.05 B,$5.79 B
+Kansai Electric Power,Japan,2.601e+010,6.135e+008,$72.67 B,$8.41 B
+Daiichi Sankyo,Japan,9.42e+009,8.598e+008,$18.79 B,$43.87 B
+Rakuten,Japan,1.531e+010,-1.22e+009,$146.16 B,$11.45 B
+Mitsui OSK Lines,Japan,1.081e+010,4.67e+009,$22.2 B,$8.9 B
+Isuzu Motors,Japan,2.17e+010,1.08e+009,$23.6 B,$9.3 B
+Renesas Electronics,Japan,9.05e+009,1.16e+009,$20.9 B,$20.81 B
+SBI Holdings,Japan,5.58e+009,3.55e+009,$152.48 B,$5.49 B
+Central Japan Railway,Japan,8.25e+009,-9.319e+008,$81.51 B,$24.77 B
+Mitsubishi UFJ Lease,Japan,1.405e+010,8.24e+008,$86.11 B,$6.49 B
+Sumitomo Metal Mining,Japan,1.071e+010,2e+009,$17.89 B,$13.03 B
+Subaru,Japan,2.515e+010,5.932e+008,$29.47 B,$11.61 B
+SMC,Japan,6.4e+009,1.67e+009,$14.77 B,$33.91 B
+Kao,Japan,1.291e+010,9.978e+008,$14.8 B,$19.19 B
+Dentsu,Japan,9.88e+009,9.865e+008,$32.31 B,$10.34 B
+Toray Industries,Japan,1.972e+010,9.757e+008,$25.73 B,$7.77 B
+Fanuc,Japan,6.52e+009,1.43e+009,$14.79 B,$31.36 B
+AGC,Japan,1.545e+010,1.13e+009,$23.15 B,$8.47 B
+Daiwa Securities,Japan,5.82e+009,1.16e+009,$229.39 B,$7.59 B
+Cosmo Energy Holdings,Japan,2.195e+010,1.36e+009,$16.9 B,$2.11 B
+Hoya,Japan,5.86e+009,1.42e+009,$8.36 B,$36.8 B
+Chubu Electric Power,Japan,2.412e+010,-2.057e+008,$52.96 B,$7.71 B
+Mazda Motor,Japan,2.808e+010,6.919e+008,$26.09 B,$4.53 B
+Yamaha Motor,Japan,1.65e+010,1.42e+009,$15.92 B,$7.4 B
+Kajima,Japan,1.821e+010,9.415e+008,$19.62 B,$5.64 B
+Secom,Japan,9.55e+009,8.548e+008,$16.25 B,$15.21 B
+Kirin Holdings,Japan,1.658e+010,5.442e+008,$21.47 B,$11.79 B
+Olympus,Japan,7.71e+009,9.019e+008,$11.23 B,$23.96 B
+Tohoku Electric Power,Japan,1.952e+010,-1.713e+008,$40.14 B,$2.83 B
+Toppan Printing,Japan,1.382e+010,9.82e+008,$20.32 B,$5.57 B
+Kyushu Electric Power,Japan,1.622e+010,1.157e+008,$45.89 B,$3.06 B
+Nippon Paint,Japan,9.23e+009,6.15e+008,$16.98 B,$19.29 B
+Kobe Steel,Japan,1.801e+010,6.691e+008,$23.19 B,$1.76 B
+Mitsui Chemicals,Japan,1.383e+010,1.14e+009,$16.12 B,$4.41 B
+Sharp,Japan,2.278e+010,7.55e+008,$17.09 B,$5.29 B
+Sojitz,Japan,1.813e+010,6.581e+008,$21.79 B,$3.62 B
+SG Holdings,Japan,1.362e+010,8.297e+008,$8.05 B,$11.02 B
+Tokyo Gas,Japan,1.747e+010,3.455e+008,$27.3 B,$7.93 B
+Tokyo Century,Japan,1.132e+010,4.775e+008,$49.19 B,$3.88 B
+Japan Exchange Group,Japan,1.25e+009,4.736e+008,$539.07 B,$8.62 B
+Terumo,Japan,6.27e+009,8.224e+008,$12.17 B,$22.93 B
+Ajinomoto,Japan,1.029e+010,7.126e+008,$12.13 B,$13.89 B
+NEXON,Japan,2.5e+009,1.05e+009,$8.57 B,$20.32 B
+Obayashi,Japan,1.698e+010,6.006e+008,$20.83 B,$5.09 B
+Oji Holdings,Japan,1.311e+010,8.203e+008,$17.84 B,$4.8 B
+Mitsubishi Materials,Japan,1.565e+010,6.814e+008,$18.33 B,$2.09 B
+Kawasaki Kisen Kaisha,Japan,6.49e+009,4.27e+009,$11.72 B,$5.3 B
+Shimano,Japan,4.97e+009,1.06e+009,$6.13 B,$18 B
+Suntory Beverage & Food,Japan,1.155e+010,6.251e+008,$14.56 B,$11.91 B
+Osaka Gas,Japan,1.315e+010,6.195e+008,$22.27 B,$6.91 B
+West Japan Railway,Japan,8.95e+009,-1.14e+009,$32.35 B,$9.42 B
+Unicharm,Japan,7.12e+009,6.621e+008,$8.58 B,$20.27 B
+Iida Group Holdings,Japan,1.262e+010,9.763e+008,$13.68 B,$4.74 B
+Fukuoka Financial Group,Japan,2.53e+009,4.83e+008,$251.69 B,$3.63 B
+Nitori Holdings,Japan,7.28e+009,8.675e+008,$8.54 B,$12.05 B
+Shiseido,Japan,9.42e+009,3.863e+008,$10.24 B,$19.14 B
+Mebuki Financial Group,Japan,2.04e+009,4.136e+008,$207.85 B,$2.03 B
+Concordia Financial Group,Japan,2.66e+009,3.608e+008,$203.71 B,$4.54 B
+Medipal Holdings,Japan,2.985e+010,3.314e+008,$15.44 B,$3.35 B
+NIPPON EXPRESS HOLDINGS,Japan,2.064e+010,5.919e+008,$14.24 B,$5.39 B
+Taisei,Japan,1.375e+010,6.912e+008,$15.51 B,$5.47 B
+All Nippon Airways,Japan,8.55e+009,-1.8e+009,$28.13 B,$9.13 B
+Chiba Bank,Japan,1.94e+009,4.959e+008,$160.78 B,$4.46 B
+Oriental Land,Japan,2.04e+009,-2.422e+008,$9.48 B,$57.49 B
+Hokuhoku Financial Group,Japan,1.61e+009,2.186e+008,$150.22 B,$877 M
+Chugoku Electric Power,Japan,1.03e+010,-3.173e+008,$30.79 B,$2.44 B
+Shionogi,Japan,2.66e+009,8.809e+008,$9.02 B,$16.32 B
+Shizuoka Bank,Japan,2.01e+009,4.317e+008,$127.33 B,$3.8 B
+Hachijuni Bank,Japan,1.28e+009,2.846e+008,$120.9 B,$1.6 B
+Kyushu Financial Group,Japan,1.63e+009,1.321e+008,$120.65 B,$1.36 B
+Nishi-nippon Financial Holdings,Japan,1.25e+009,1.889e+008,$118.56 B,$917 M
+Japan Securities,Japan,2.74e+008,4.32e+007,$116.82 B,$655 M
+Dai Nippon Printing,Japan,1.228e+010,6.419e+008,$16.55 B,$5.63 B
+North Pacific Bank,Japan,1.13e+009,1.032e+008,$112.65 B,$744 M
+Nitto Denko,Japan,7.66e+009,8.467e+008,$9.01 B,$10.1 B
+Bank of Kyoto,Japan,1.16e+009,1.957e+008,$109.08 B,$3.12 B
+Shinsei Bank,Japan,2.64e+009,5.129e+008,$91.69 B,$3.83 B
+Yamaguchi Financial,Japan,1.55e+009,2.602e+008,$107.32 B,$1.35 B
+Hirogin Holdings,Japan,1.22e+009,2.313e+008,$100.28 B,$1.56 B
+Gunma Bank,Japan,1.3e+009,1.679e+008,$96.17 B,$1.21 B
+Daishi Hokuetsu Financial Group,Japan,1.2e+009,1.235e+008,$90.37 B,$893 M
+77 Bank,Japan,9.67e+008,1.772e+008,$90.27 B,$921 M
+Chugoku Bank,Japan,1.05e+009,1.722e+008,$88.26 B,$1.38 B
+M3,Japan,1.82e+009,6.124e+008,$2.82 B,$22.54 B
+Mitsubishi Motors,Japan,1.746e+010,-2.149e+008,$16.17 B,$3.69 B
+Pan Pacific International Holdings,Japan,1.614e+010,4.674e+008,$12.34 B,$8.89 B
+Daito Trust Construction,Japan,1.415e+010,6.313e+008,$8.13 B,$6.6 B
+Alfresa Holdings,Japan,2.351e+010,2.2e+008,$12.09 B,$2.77 B
+Bandai Namco Holdings,Japan,7.52e+009,5.457e+008,$6.85 B,$15.24 B
+Iyo Bank,Japan,1.17e+009,2.071e+008,$75.19 B,$1.57 B
+Juroku  Financial Group,Japan,1.04e+009,1.388e+008,$74.5 B,$626 M
+Advantest,Japan,3.56e+009,8.57e+008,$4.01 B,$12.75 B
+Hyakugo Bank,Japan,8.63e+008,1.317e+008,$70.08 B,$677 M
+Tosoh,Japan,8.06e+009,9.666e+008,$9.29 B,$4.4 B
+Showa Denko,Japan,1.292e+010,-1.101e+008,$18.6 B,$3.43 B
+Kawasaki Heavy Industries,Japan,1.36e+010,1.76e+007,$17.77 B,$3.08 B
+Ogaki Kyoritsu Bank,Japan,7.01e+008,8.7e+007,$66.19 B,$622 M
+Electric Power Development,Japan,9.21e+009,6.03e+007,$25.16 B,$2.54 B
+Shiga Bank,Japan,8.75e+008,1.747e+008,$65.14 B,$916 M
+Suzuken,Japan,2.007e+010,1.368e+008,$11.18 B,$2.61 B
+Senshu Ikeda Holdings,Japan,6.3e+008,8.2e+007,$63.1 B,$391 M
+Ricoh,Japan,1.607e+010,1.177e+008,$15.29 B,$4.66 B
+San-In Godo Bank,Japan,8.06e+008,1.329e+008,$60.81 B,$793 M
+Nanto Bank,Japan,6.67e+008,1.153e+008,$60.19 B,$509 M
+Toho Bank,Japan,5.25e+008,-1.22e+007,$60.11 B,$398 M
+Keiyo Bank,Japan,5.83e+008,9.57e+007,$59.85 B,$493 M
+Shimizu,Japan,1.301e+010,4.14e+008,$17.17 B,$4.2 B
+Hanwa,Japan,1.858e+010,3.688e+008,$9.63 B,$995 M
+Tokyo Kiraboshi Financial Group,Japan,8.3e+008,8.72e+007,$56.78 B,$418 M
+Aozora Bank,Japan,1.24e+009,3.236e+008,$55.38 B,$2.36 B
+Nippon Steel Trading,Japan,1.762e+010,2.847e+008,$9.58 B,$1.33 B
+Kiyo Bank,Japan,7.05e+008,1.708e+008,$51.38 B,$728 M
+Hyakujushi Bank,Japan,6.52e+008,9.46e+007,$49.45 B,$383 M
+Tokyu Fudosan,Japan,8.64e+009,3.57e+008,$23.04 B,$3.79 B
+Yamada Denki,Japan,1.513e+010,5.149e+008,$11.57 B,$2.47 B
+Hokkoku Financial Holdings,Japan,7e+008,5.35e+007,$48.35 B,$677 M
+Musashino Bank,Japan,5.35e+008,8.22e+007,$47.63 B,$465 M
+Yamato Holdings,Japan,1.613e+010,4.333e+008,$10.38 B,$6.93 B
+Seiko Epson,Japan,1.024e+010,6.566e+008,$10.46 B,$4.83 B
